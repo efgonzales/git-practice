@@ -29,4 +29,4 @@ The `echo: false` option disables the printing of code (only output is displayed
 cool_code <- c(1, 2, 3)
 ```
 
-Wowwwwwwww
+Stage, commit, pull, push
